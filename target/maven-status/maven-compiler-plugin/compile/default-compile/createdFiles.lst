@@ -1,0 +1,5 @@
+cn\edu\bupt\model\User.class
+cn\edu\bupt\action\UserAction.class
+cn\edu\bupt\dao\UserDaoI.class
+cn\edu\bupt\service\UserService.class
+cn\edu\bupt\dao\impl\UserDaoImpl.class
